@@ -18,9 +18,9 @@
 <h3 align="left">My projects:</h3>
 <p>
   <a href="https://github.com/LucasTripolone/Redes-Neuronales.git" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="LucasTripolone" height="30" width="40" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LucasTripolone&repo=Redes-Neuronales" alt="LucasTripolone"/>
   </a>
-  <a href="https://github.com/LucasTripolone/R.-T.-E.-R..git" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="LucasTripolone" height="30" width="40" />
-  </a>
+  <a href="https://github.com/LucasTripolone/R.-T.-E.-R..git">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LucasTripolone&repo=R.-T.-E.-R." alt="LucasTripolone"/>
+</a>
 </p>
