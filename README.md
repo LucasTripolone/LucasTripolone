@@ -24,6 +24,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LucasTripolone&repo=R.-T.-E.-R." alt="LucasTripolone"/>
 </a>
   <a href="https://github.com/LucasChas/TP2-SIM-4K4-Grupo-8.git">
-  <img align="center" src="https://github.com/LucasChas/TP2-SIM-4K4-Grupo-8.git" alt="LucasTripolone"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LucasChas&repo=TP2-SIM-4K4-Grupo-8" alt="LucasTripolone"/>
 </a>
 </p>
