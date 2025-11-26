@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lucas Tripolone</h1>
-<h3 align="center">Python-oriented software developer with experience in libraries such as TensorFlow, OpenCV, and React. Passionate about building innovative solutions that integrate machine learning, computer vision, and web development. Currently two final exams away from earning the intermediate degree in Systems Development, demonstrating my commitment to continuous learning and professional growth. I participated in a project that utilized artificial intelligence with neural networks, allowing me to deepen my expertise in developing innovative machine learning-based solutions.</h3>
+<h3 align="center">Python-oriented software developer with experience in libraries such as TensorFlow, OpenCV, and React. Passionate about building innovative solutions that integrate machine learning, computer vision, and web development. I participated in a project that utilized artificial intelligence with neural networks, allowing me to deepen my expertise in developing innovative machine learning-based solutions.</h3>
 
-- 💬 Ask me about **Python, Java, JavaScript, React**
+- 💬 Ask me about **Python, Java, JavaScript, React, CSS, HTML, SQL**
 
 - 📫 How to reach me **ltripolone476@gmail.com**
 
