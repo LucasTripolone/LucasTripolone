@@ -50,4 +50,9 @@
     <img src="https://img.shields.io/badge/Library%20Management%20System-Repo-green?style=for-the-badge&logo=github" />
   </a>
 
+  <!-- Proyecto 4 -->
+  <a href="https://github.com/ernestopetrich/trabajo_final_DAO.git" target="_blank">
+    <img src="https://img.shields.io/badge/RentCar-Repo-red?style=for-the-badge&logo=github" />
+  </a>
+
 </p>
